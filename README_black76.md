@@ -124,7 +124,4 @@ Theta (per day):     -10.3875
 
 ## Author
 
-**Rakshit Gandhi**
-B.Sc. Information Technology | GLSU Ahmedabad
-Focused on quantitative finance, derivatives pricing, and systematic strategy development.
-[rakshitgandhi184@gmail.com](mailto:rakshitgandhi184@gmail.com)
+**Rakshit**
